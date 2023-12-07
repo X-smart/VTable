@@ -15,8 +15,8 @@ importers:
       '@types/react': ^18.0.0
       '@types/react-dom': ^18.0.0
       '@visactor/vchart': 1.7.1
-      '@visactor/vtable': workspace:*
-      '@visactor/vtable-editors': workspace:*
+      '@visactor/vtable': workspace:0.15.5-alpha.4
+      '@visactor/vtable-editors': workspace:0.15.5-alpha.4
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
       chalk: ^3.0.0
@@ -81,7 +81,7 @@ importers:
       '@types/react-dom': ^18.0.0
       '@types/react-is': ^17.0.3
       '@visactor/vchart': 1.7.1
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:0.15.5-alpha.4
       '@visactor/vutils': ~0.16.10
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
@@ -182,7 +182,7 @@ importers:
       '@visactor/vrender': 0.16.17
       '@visactor/vrender-components': 0.16.17
       '@visactor/vscale': 0.16.0
-      '@visactor/vtable-editors': workspace:*
+      '@visactor/vtable-editors': workspace:0.15.5-alpha.4
       '@visactor/vutils': ~0.16.10
       '@visactor/vutils-extension': 1.5.1-alpha.0
       '@vitejs/plugin-react': 3.1.0
